@@ -1,3 +1,3 @@
 Quera problems
 
-www.quera.com
+www.quera.ir
