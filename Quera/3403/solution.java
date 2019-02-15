@@ -5,11 +5,11 @@ public class Q7
     {
         Scanner input =new Scanner(System.in);
         double a[]=new double[4];
-        a[0]=input.nextByte();
+        a[0]=input.nextDouble();
         double sum=a[0],min=a[0],max=a[0],prime=a[0];
         for(int i=1;i<4;i++)
         {
-         a[i]=input.nextByte();
+         a[i]=input.nextDouble();
          sum+=a[i];
          prime*=a[i];
          if(a[i]<min) min=a[i];
