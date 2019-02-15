@@ -12,7 +12,7 @@ public class Q12
            b[i]=a[i]-x;
        }
        for(int i=0;i<6;i++)
-           System.out.println(b[i]);
+           System.out.format("%d ",b[i]);
     }
     
 }
